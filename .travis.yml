@@ -4,7 +4,7 @@ addons:
   sonarcloud:
     organization: "matrak63"
     token:
-      secure: 994acf3fa2d831f9badf3f66fb985e1ea2b8d9cc # encrypted value of your token
+      secure: "**************************" # encrypted value of your token
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
